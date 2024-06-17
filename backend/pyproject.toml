@@ -1,0 +1,5 @@
+[tool.isort]
+profile = "black"
+py_version = 311
+skip = [".gitignore"]
+extend_skip = [".md", ".json", ".rst", "py311", "py310", "py39", "venv", "py", ".ipynb"]

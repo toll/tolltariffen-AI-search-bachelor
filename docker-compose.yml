@@ -1,0 +1,19 @@
+version: '1'
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      args:
+        - BACKEND_API_HOST=0.0.0.0
+        - BACKEND_API_PORT=5001
+    ports:
+      - 5001:5001
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - 5080:80
+      - 5443:443

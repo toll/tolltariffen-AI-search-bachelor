@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "varenummer": "20.08.9901",
+      "vareslag": "Fruit Crisps Crispy Apple",
+      "posisjon": "20.08",
+      "beskrivelse": "Varen er chips laget av epler. Ingredienser: epler, palmeolje, maltose. Varen emballeres i plast, med nettoinnhold 35g.",
+      "begrunnelse": "Klassifiseringen er fattet i medhold av alminnelig fortolkningsregel 1 og 6. Regel 1 sier bl.a. at klassifiseringen skal bestemmes av ordlyden i posisjonene og notene til vedkommende avsnitt eller kapittel. Regel 6 sier bl.a. at klassifisering av varer i underposisjoner skal bestemmes av ordlyden i disse underposisjoner."
+    },
+    {
+      "varenummer": "20.05.9908",
+      "vareslag": "Lapskaus",
+      "posisjon": "20.05",
+      "beskrivelse": "Lapskaus. Ingredienser: potet, vann, grønnsaker (gulrot, løk, sellerirot), svinekjøtt (svinekjøtt, vann, salt, rosmarinekstrakt, stabilisator, konserveringsmiddel, antioksidant, røykaroma), rapsolje, hvetemel, salt, proteinekstrakt av soya, tomat, fargestoff, aroma, krydder og muskatnøtt.",
+      "begrunnelse": "Klassifiseringen er fattet i medhold av alminnelig fortolkningsregel 1, 3b og 6. Regel 1 sier bl.a. at klassifiseringen skal bestemmes av ordlyden i posisjonene og notene til vedkommende avsnitt eller kapittel. Regel 6 sier bl.a. at klassifisering av varer i underposisjoner skal bestemmes av ordlyden i disse underposisjoner. Andelen av grønnsaker er størst i varen og gir varen dens karakter. Varen anses derfor som en grønnsaksblanding."
+    },
+    {
+      "varenummer": "22.02.9999",
+      "vareslag": "fruktdrikk",
+      "posisjon": "22.02",
+      "beskrivelse": "Varen er en fruktdrikk med smak av bl.a ingefær,gurkemeiel og appelsin, drikkeklar. Ingredienser: Ingefær  juice (20%), gurkemeie juice (5%), appelsin juice, eple juice, lime juice, konserveringsmidler. Tappet på flaske à  50 cl.",
+      "begrunnelse": "Klassifiseringen er fattet i medhold av alminnelig fortolkningsregel 1 og 6. Regel 1 sier bl.a. at klassifiseringen skal bestemmes av ordlyden i posisjonene og notene til vedkommende avsnitt eller kapittel. Regel 6 sier bl.a. at klassifisering av varer i underposisjoner skal bestemmes av ordlyden i disse underposisjoner.Varen består av en blanding av fruktsafterog  ingefærsaft og kan derfor ikke klassifiseres som fruktsaft i posisjon 20.09. Varen er da best beskrevet som en alkoholfri drikkevare i form av en fruktdrikk hjemmehørende i posisjon 22.02."
+    }
+  ]
+}

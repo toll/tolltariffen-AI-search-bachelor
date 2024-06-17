@@ -1,0 +1,5 @@
+py311/
+.idea/
+backend/configuration/config.ini
+backend/dataset/*
+__pycache__/
